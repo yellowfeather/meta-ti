@@ -625,4 +625,5 @@ PATCHES_OVER_PSP = " \
 	file://beaglebone/0024-beaglebone-add-gpio-keys-for-lcd7-add-notes-for-miss.patch \
 	file://beaglebone/0025-beaglebone-add-enter-key-for-lcd7-cape.patch \
 	file://beaglebone/0026-beaglebone-add-gpio-keys-for-lcd.patch \
+	file://beaglebone/0027-ARM-omap-am335x-BeagleBone-userspace-SPI-support.patch \
 "
